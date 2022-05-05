@@ -1,7 +1,9 @@
 Test 3
 ================
 
-## GitHub Documents
+## This is a test
+
+**is this in bold**
 
 This is an R Markdown format used for publishing markdown documents to
 GitHub. When you click the **Knit** button all R code chunks are run and
